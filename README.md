@@ -1,4 +1,4 @@
-# CMEA_2d-poissonlFEM
+# CMEA_2d-poissonFEM
 ## Description
 C++ project realized for the course "Computational Methods for Engineering Application" given at ETH Zurich during the Fall Semester 2019.
 ## Aims of the course
